@@ -3,7 +3,7 @@
 This is my personal developer portfolio showcasing my projects, skills, and experience in software development.
 
 ## 🔗 Live Portfolio
-[View Live Site](https://your-username.github.io/repo-name/](https://github.com/aishwaryasingh2410-dot/aishwarya-portfolio)
+👉 https://aishwaryasingh2410-dot.github.io/aishwarya-portfolio/
 
 ## 🚀 About Me
 I am a developer with experience in:
@@ -25,6 +25,6 @@ I am a developer with experience in:
 - College Management System
 
 ## 📫 Contact
-- Email: aishwaryasingh2410@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aishwarya-singh-57b061251/
-- GitHub: https://github.com/aishwaryasingh2410-dot/
+- Email: aishwaryasingh2410@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aishwarya-singh-57b061251/  
+- GitHub: https://github.com/aishwaryasingh2410-dot
