@@ -3,7 +3,7 @@
 This is my personal developer portfolio showcasing my projects, skills, and experience in software development.
 
 ## 🔗 Live Portfolio
-[View Live Site](https://your-username.github.io/repo-name/](https://github.com/aishwaryasingh2410-dot/aishwarya-portfolio/)
+[View Live Site](https://your-username.github.io/repo-name/](https://github.com/aishwaryasingh2410-dot/aishwarya-portfolio)
 
 ## 🚀 About Me
 I am a developer with experience in:
